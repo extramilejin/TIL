@@ -1,6 +1,6 @@
 // 2021.01.16 extramilejin
 // problem link: https://programmers.co.kr/learn/courses/30/lessons/42862?language=swift
-t
+
 import Foundation
 
 func solution(_ n:Int, _ lost:[Int], _ reserve:[Int]) -> Int {
